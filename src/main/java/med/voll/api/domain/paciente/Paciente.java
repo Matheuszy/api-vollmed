@@ -61,6 +61,6 @@ public class Paciente {
     }
 
     public List<Consulta> consultas(){
-        return consultas();
+        return consultas;
     }
 }
